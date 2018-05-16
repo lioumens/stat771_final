@@ -1,3 +1,8 @@
+# ---------------------------
+#  Average algorithm times 
+# ---------------------------
+
+
 # Timing Algorithms
 setwd("~/Desktop/s18/stat771/finalproject/src/")
 source(file = "my_density_estimation.R")

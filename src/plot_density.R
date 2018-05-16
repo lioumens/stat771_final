@@ -1,5 +1,12 @@
+# -------------------------------------
+# Compare density estimation algorithms
+# 1. Density (from R)
+# 2. my Brute force algorithm
+# 3. my FFT algorithm
+# -------------------------------------
+
 # change working directory to the R files
-# setwd("~/Desktop/s18/stat771/finalproject/src/")
+# setwd("~/Desktop/gradwisc/s18/stat771/finalproject/src/")
 source("my_density_estimation.R")
 
 # Use Old faithful data
